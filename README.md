@@ -90,8 +90,8 @@ Currently expanding my knowledge of frontend development, backend architecture, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iblamerayz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblamerayz&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages"/>
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak"/>
 
