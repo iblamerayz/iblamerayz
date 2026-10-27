@@ -1,112 +1,91 @@
- <div align="center">
+<!--
+GITHUB PROFILE README
+1. Create a public repository whose name exactly matches your GitHub username.
+2. Put this file in that repository as README.md.
+3. Replace every occurrence of iblamerayz with your GitHub username.
+4. Update project links as your repositories become public.
+-->
 
-# ISHAN
-### Developer · Builder · Founder of OneStudio
+<div align="center">
 
-Building Minecraft systems, developer tools, and web experiences.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0891b2&height=190&section=header&text=Ishan%20%7C%20Rayz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Founder%20at%20OneStudio&descAlignY=60&descSize=16" alt="Ishan Rayz — Developer" width="100%" />
 
-<a href="https://theonestudio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-OneStudio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="[YOUR_GITHUB_URL](https://github.com/iblamerayz)">
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://dsc.gg/rayzstudio">
-  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
+### Building useful things. Making them feel great to use.
+
+I’m **Ishan**, also known as **Rayz** — a developer interested in Minecraft systems, web experiences, and products built with care. I like taking an idea from rough concept to something real, polished, and reliable.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iblamerayz)
+[![OneStudio](https://img.shields.io/badge/OneStudio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://theonestudio.vercel.app)
+[![Profile Views](https://komarev.com/ghpvc/?username=iblamerayz&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/iblamerayz)
 
 </div>
 
 ---
 
-## `whoami`
+## About me
 
-I'm Ishan, a developer and founder building software through a mix of engineering, experimentation, and AI-assisted development.
+- 🛠️ Building **Minecraft plugins, server systems, and developer-focused projects**.
+- 🌐 Exploring **full-stack development**, product design, and interactive web apps.
+- 🧩 Interested in clean architecture, performance, security, and thoughtful UX.
+- 🤖 I use AI-assisted development to move faster while staying responsible for the code and decisions.
+- 🚀 Working on projects through **OneStudio**.
 
-My primary focus is the Minecraft ecosystem — from custom plugins and gameplay systems to server infrastructure and tools. I'm also expanding into full-stack web development to understand, architect, and build the systems behind my projects.
+> I care about more than making something work. I want it to be maintainable, secure, and genuinely good to use.
 
-I care about software that works beyond the demo: maintainable code, sensible architecture, reliable behaviour, and interfaces that feel deliberately designed.
-
-- **Founder:** OneStudio
-- **Core domain:** Minecraft plugin and server development
-- **Currently learning:** Full-stack web development
-- **Building with:** Java, modern development tools, and AI-assisted workflows
-- **Long-term focus:** Software products, developer tools, and scalable systems
-
-## `what i build`
-
-### OneStudio
-
-My independent development studio focused on Minecraft software, server systems, and digital products.
-
-**Areas of work**
-- Custom Minecraft plugins and gameplay mechanics
-- Server infrastructure, integrations, and automation
-- Product architecture and maintenance
-- Web interfaces, dashboards, and developer tooling
-
-### Selected work
-
-| Project | Description |
-|:--|:--|
-| **OakMC** | Minecraft BoxPvP network developed, owned, and managed under OneStudio. |
-| **Minecraft Plugins** | Custom gameplay systems, integrations, configuration, and server-side engineering. |
-| **Web Projects** | Websites, product interfaces, and experiments as I expand my full-stack skills. |
-
-*Only actively maintained projects and current work should be listed here.*
-
-## `tech stack`
+## Tech stack
 
 <div align="center">
 
-**Languages & Web**
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,ts" alt="Java, HTML, CSS, JavaScript and TypeScript"/>
-
-**Tools & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=git,github,gradle,idea,vscode,nodejs,postgres" alt="Git, GitHub, Gradle, IntelliJ IDEA, VS Code, Node.js and PostgreSQL"/>
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,react,nodejs,html,css,git,github,gradle,vscode,idea&perline=6)](https://skillicons.dev)
 
 </div>
 
-Currently expanding my knowledge of frontend development, backend architecture, APIs, databases, and deployment. The goal is to understand the entire stack, not just make the code compile.
+**Also working with:** Paper / Spigot APIs, plugin architecture, Gradle, REST APIs, and AI coding tools.
 
-## `engineering philosophy`
+## Projects
 
-- **Understand the system.** Don't treat working code as proof that the implementation is correct.
-- **Build for maintenance.** Prefer clear architecture over unnecessary complexity.
-- **Automate repetitive work.** Let systems handle predictable tasks reliably.
-- **Use AI deliberately.** Accelerate implementation while reviewing, testing, and understanding the output.
-- **Ship honestly.** Document real capabilities, known limitations, and actual project status.
+| Project | What it is |
+|---|---|
+| **OneStudio** | A development studio focused on Minecraft plugins, server systems, and digital products. [Visit the website](https://theonestudio.vercel.app) |
+| **RayzWardrobe** | A configurable Minecraft armor-set wardrobe plugin with themed UI and progression features. |
+| **RayzLivelyWorld** | An experimental Minecraft world system built around the idea that the world should feel alive. |
+| **OneClient** | A Minecraft client / launcher UI project focused on a compact layout and a polished user experience. |
+| **More in progress** | I experiment with web apps, game-related tooling, and product ideas. |
 
-## `currently exploring`
+<!-- Add repository or release links to each project when ready. Avoid listing private or inactive work as a public release. -->
 
-- Full-stack development with JavaScript and TypeScript
-- React, backend APIs, and relational databases
-- Software architecture and maintainable plugin systems
-- Better testing, debugging, and engineering workflows
-
-## `github activity`
+## GitHub at a glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iblamerayz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblamerayz&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iblamerayz&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblamerayz&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=iblamerayz&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
 </div>
 
-## `connect`
+## How I build
 
-Interested in Minecraft development, software engineering, or collaborating on something worth building?
+- **Plan first:** define the goal, constraints, and what “done” means.
+- **Build in focused iterations:** make meaningful progress without risky, uncontrolled rewrites.
+- **Test the edges:** handle failures, permissions, invalid input, and unusual states.
+- **Polish the experience:** clear interfaces, consistent behavior, and useful documentation.
 
-Reach out through Discord or explore my repositories.
+## Currently exploring
+
+`Java` · `TypeScript` · `React` · `Node.js` · `Minecraft APIs` · `Product engineering`
+
+I’m always learning, shipping experiments, and improving old work instead of pretending the first version is perfect.
+
+## Let’s connect
+
+Have an interesting project, a useful idea, or a reason to collaborate? Feel free to reach out through GitHub or check out [OneStudio](https://theonestudio.vercel.app).
 
 <div align="center">
 
-**Build with purpose. Ship with intent.**
+*Build with purpose. Ship with care. Keep learning.*
 
-<sub>Designed and built by Ishan · OneStudio</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:0f172a&height=100&section=footer" alt="Footer banner" width="100%" />
 
 </div>
