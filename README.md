@@ -8,15 +8,15 @@ GITHUB PROFILE README
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0891b2&height=190&section=header&text=Ishan%20%7C%20Rayz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Founder%20at%20OneStudio&descAlignY=60&descSize=16" alt="Ishan Rayz — Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:15803d,100:4ade80&height=190&section=header&text=Ishan%20%7C%20Rayz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Founder%20at%20OneStudio&descAlignY=60&descSize=16" alt="Ishan Rayz — Developer" width="100%" />
 
 ### Building useful things. Making them feel great to use.
 
 I’m **Ishan**, also known as **Rayz** — a developer interested in Minecraft systems, web experiences, and products built with care. I like taking an idea from rough concept to something real, polished, and reliable.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iblamerayz)
-[![OneStudio](https://img.shields.io/badge/OneStudio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://theonestudio.vercel.app)
-[![Profile Views](https://komarev.com/ghpvc/?username=iblamerayz&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/iblamerayz)
+[![GitHub](https://img.shields.io/badge/GitHub-14532d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iblamerayz)
+[![OneStudio](https://img.shields.io/badge/OneStudio-166534?style=for-the-badge&logo=vercel&logoColor=white)](https://theonestudio.vercel.app)
+[![Profile Views](https://komarev.com/ghpvc/?username=iblamerayz&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS)](https://github.com/iblamerayz)
 
 </div>
 
@@ -58,10 +58,10 @@ I’m **Ishan**, also known as **Rayz** — a developer interested in Minecraft 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iblamerayz&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblamerayz&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iblamerayz&show_icons=true&hide_border=true&rank_icon=github&theme=merko&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblamerayz&layout=compact&hide_border=true&theme=merko&langs_count=8" alt="Most used languages" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=iblamerayz&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=iblamerayz&hide_border=true&theme=merko" alt="GitHub contribution streak" />
 
 </div>
 
@@ -86,6 +86,6 @@ Have an interesting project, a useful idea, or a reason to collaborate? Feel fre
 
 *Build with purpose. Ship with care. Keep learning.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:0f172a&height=100&section=footer" alt="Footer banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:15803d,100:052e16&height=100&section=footer" alt="Footer banner" width="100%" />
 
 </div>
