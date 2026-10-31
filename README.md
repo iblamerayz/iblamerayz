@@ -54,16 +54,6 @@ I’m **Ishan**, also known as **Rayz** — a developer interested in Minecraft 
 
 <!-- Add repository or release links to each project when ready. Avoid listing private or inactive work as a public release. -->
 
-## GitHub at a glance
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iblamerayz&show_icons=true&hide_border=true&rank_icon=github&theme=merko&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblamerayz&layout=compact&hide_border=true&theme=merko&langs_count=8" alt="Most used languages" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=iblamerayz&hide_border=true&theme=merko" alt="GitHub contribution streak" />
-
-</div>
 
 ## How I build
 
